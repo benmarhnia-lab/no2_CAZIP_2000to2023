@@ -1,2 +1,2 @@
 # no2_CAZIP_2000to2023
-NO2 estimates (reflecting the daily maximum 1-hour average concentration, in ppb) at California ZIP codes within 2000-2023
+This dataset contains daily maximum 1-hour NO2 concentrations (ppb) in California from 2000 to 2023, estimated using NO2 monitoring data and a machine learning ensemble-model approach. Predictors for daily NO2 concentrations at ZIP codes included daily satellite-derived aerosol properties (aerosol optical depth) and meteorological conditions (maximum and minimum temperature, precipitation, wind velocity and direction, radiation and humidity), as well as annual changes in land use cover, among others.
